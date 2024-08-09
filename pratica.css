@@ -1,0 +1,12 @@
+header{
+    background-color:#fce185;
+    padding: 15px;
+}
+header >img{
+    width: 100px;
+    height: auto;
+}
+
+section-1{
+    background-color:#4c7d3d
+}
