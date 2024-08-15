@@ -70,8 +70,9 @@ header nav ul li a{
     
 }
 .section-2 img{
-    width: 300px;
-    height:auto ;
+    width: 300px;/*largura da imagem*/
+    height:auto ;/*altura da imagem*/
+
 }
 .section-2 h2{
     color: black;/* cor de fundo da sessão*/
@@ -95,7 +96,7 @@ header nav ul li a{
     background-position: center;/* posição em que a imagen será apresentada */
 }
 
-/* */
+/* aqui chamamaos nossa terceira e última sessão para estilização */
 .section-3 h2{
     color: black;
     font-size: 25px;
